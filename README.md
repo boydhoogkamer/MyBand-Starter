@@ -1,10 +1,10 @@
 ## Titel van jouw website
-www.mijnliveomgeving.com is een website van (..jouw naam..) waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
-De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
+http://25848.hosts2.ma-cloud.nl/bewijzenmap/periode1.4/proj/myband/key.php is een website van Boyd Hoogkamer waar gebruikers kunnen leren over de game League of Legends bedoeld voor gamers.
+De website is enigszins te vergelijken met https://euw.leagueoflegends.com/en/ of https://na.op.gg/ maar toch anders omdat Dit mijn persoonlijke ervaringen zijn met het spel.
 
 ### Uniek aan dit concept is: 
- * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
- * tweede u.s.p. (vul hier in, waar jouw site door gaat opvallen, wat zal iedereen onthouden van jouw site?)
+ * eerste u.s.p. (Mijn site is anders dan andere omdat de site helemaal geschreven is met eigen meningen en persoonlijke ervaringen in de game.)
+ * tweede u.s.p. (De site is alleen bedoeld voor de mensen die er om vragen, ik zoek geen populariteit)
 
 ---
 #### Milestones 
@@ -63,8 +63,8 @@ Deze fase duurt 3 weken
 
 | Milestone  | Status | Link |
 | ------ |  ------ | ------ |
-| B1-K3-W2 Link naar de live omgeving                        |  TODO |  <https://mijnliveomgeving.com> |
-| B1-K3-W2 Gebruikersdocumentatie / instructie               |  TODO |  [Gebruikers documentatie] |
+| B1-K3-W2 Link naar de live omgeving                        |  TODO |  http://25848.hosts2.ma-cloud.nl/bewijzenmap/periode1.4/proj/myband/key.php |
+| B1-K3-W2 Gebruikersdocumentatie / instructie               |  TODO |  [De key om binnen te komen is "1234"] |
 | B1-K3-W3 Evaluatie                                         |  TODO |  [Evaluatie] |
 
 [Gebruikers documentatie]: <doc/fase-3/gebruikersdocumentatie.md>
