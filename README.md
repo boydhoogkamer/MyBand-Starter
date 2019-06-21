@@ -1,4 +1,4 @@
-## Titel van jouw website
+## Boyd's LoL Notes
 http://25848.hosts2.ma-cloud.nl/bewijzenmap/periode1.4/proj/myband/key.php is een website van Boyd Hoogkamer waar gebruikers kunnen leren over de game League of Legends bedoeld voor gamers.
 De website is enigszins te vergelijken met https://euw.leagueoflegends.com/en/ of https://na.op.gg/ maar toch anders omdat Dit mijn persoonlijke ervaringen zijn met het spel.
 
